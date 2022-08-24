@@ -1,3 +1,6 @@
+# Current status
+
+This project is not in active development at this time and is unsupported.
 
 # Contributing
 
